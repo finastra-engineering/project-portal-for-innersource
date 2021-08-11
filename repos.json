@@ -94,7 +94,9 @@
         "default_branch": "master",
         "permissions": {
             "admin": true,
+            "maintain": true,
             "push": true,
+            "triage": true,
             "pull": true
         },
         "score": 1.0
@@ -194,7 +196,9 @@
         "default_branch": "main",
         "permissions": {
             "admin": true,
+            "maintain": true,
             "push": true,
+            "triage": true,
             "pull": true
         },
         "score": 1.0
