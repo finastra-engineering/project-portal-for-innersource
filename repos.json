@@ -89,6 +89,10 @@
         "open_issues_count": 9,
         "license": null,
         "allow_forking": true,
+        "is_template": false,
+        "topics": [
+            "inner-source"
+        ],
         "visibility": "internal",
         "forks": 0,
         "open_issues": 9,
@@ -193,6 +197,10 @@
         "open_issues_count": 1,
         "license": null,
         "allow_forking": true,
+        "is_template": false,
+        "topics": [
+            "inner-source"
+        ],
         "visibility": "internal",
         "forks": 0,
         "open_issues": 1,
